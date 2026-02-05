@@ -1,0 +1,37 @@
+{
+  "exam": "JAMB",
+  "subject": "English",
+  "year": "2024",
+  "questions": [
+    {
+      "id": "jamb_english_2024_1",
+      "text": "Choose the word that is opposite in meaning to 'ABUNDANT':",
+      "options": [
+        { "id": "A", "text": "Scarce" },
+        { "id": "B", "text": "Plentiful" },
+        { "id": "C", "text": "Ample" },
+        { "id": "D", "text": "Sufficient" }
+      ],
+      "correctAnswer": "A",
+      "explanation": [
+        "Step 1: ABUNDANT means plentiful or in large quantities",
+        "Step 2: The opposite is SCARCE, meaning rare or in short supply",
+        "Final answer: Scarce"
+      ],
+      "topic": "Antonyms",
+      "difficulty": "Easy"
+    }
+  ]
+}
+```
+
+---
+
+### **3. Get the CDN URLs**
+
+After committing all files, your questions will be available at:
+```
+https://cdn.jsdelivr.net/gh/YOUR_USERNAME/iqra-questions@main/waec/mathematics/2024.json
+https://cdn.jsdelivr.net/gh/YOUR_USERNAME/iqra-questions@main/waec/physics/2024.json
+https://cdn.jsdelivr.net/gh/YOUR_USERNAME/iqra-questions@main/neco/mathematics/2024.json
+https://cdn.jsdelivr.net/gh/YOUR_USERNAME/iqra-questions@main/jamb/english/2024.json
