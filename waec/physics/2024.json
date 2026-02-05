@@ -1,0 +1,43 @@
+{
+  "exam": "WAEC",
+  "subject": "Physics",
+  "year": "2024",
+  "questions": [
+    {
+      "id": "waec_physics_2024_1",
+      "text": "What is the SI unit of force?",
+      "options": [
+        { "id": "A", "text": "Joule" },
+        { "id": "B", "text": "Newton" },
+        { "id": "C", "text": "Watt" },
+        { "id": "D", "text": "Pascal" }
+      ],
+      "correctAnswer": "B",
+      "explanation": [
+        "Step 1: Force is measured in Newtons (N)",
+        "Step 2: Named after Sir Isaac Newton",
+        "Final answer: Newton"
+      ],
+      "topic": "Units and Measurements",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_physics_2024_2",
+      "text": "Calculate the speed of an object that travels 100m in 20 seconds.",
+      "options": [
+        { "id": "A", "text": "2 m/s" },
+        { "id": "B", "text": "5 m/s" },
+        { "id": "C", "text": "10 m/s" },
+        { "id": "D", "text": "20 m/s" }
+      ],
+      "correctAnswer": "B",
+      "explanation": [
+        "Step 1: Use formula: Speed = Distance ÷ Time",
+        "Step 2: Speed = 100m ÷ 20s = 5 m/s",
+        "Final answer: 5 m/s"
+      ],
+      "topic": "Motion - Speed",
+      "difficulty": "Easy"
+    }
+  ]
+}
