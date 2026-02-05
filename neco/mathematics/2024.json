@@ -1,0 +1,26 @@
+{
+  "exam": "NECO",
+  "subject": "Mathematics",
+  "year": "2024",
+  "questions": [
+    {
+      "id": "neco_math_2024_1",
+      "text": "Evaluate: 15 + 3 × 4",
+      "options": [
+        { "id": "A", "text": "27" },
+        { "id": "B", "text": "72" },
+        { "id": "C", "text": "60" },
+        { "id": "D", "text": "18" }
+      ],
+      "correctAnswer": "A",
+      "explanation": [
+        "Step 1: Follow BODMAS - Multiplication before Addition",
+        "Step 2: 3 × 4 = 12",
+        "Step 3: 15 + 12 = 27",
+        "Final answer: 27"
+      ],
+      "topic": "BODMAS",
+      "difficulty": "Easy"
+    }
+  ]
+}
