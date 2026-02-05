@@ -1,0 +1,376 @@
+{
+  "exam": "WAEC",
+  "subject": "Mathematics",
+  "year": "2024",
+  "questions": [
+    {
+      "id": "waec_math_2024_1",
+      "text": "Simplify: 3x + 5x - 2x",
+      "options": [
+        { "id": "A", "text": "4x" },
+        { "id": "B", "text": "6x" },
+        { "id": "C", "text": "8x" },
+        { "id": "D", "text": "10x" }
+      ],
+      "correctAnswer": "B",
+      "explanation": [
+        "Step 1: Add the like terms: 3x + 5x = 8x",
+        "Step 2: Subtract 2x from 8x: 8x - 2x = 6x",
+        "Final answer: 6x"
+      ],
+      "topic": "Algebra - Like Terms",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_2",
+      "text": "If 2x + 5 = 13, what is the value of x?",
+      "options": [
+        { "id": "A", "text": "2" },
+        { "id": "B", "text": "3" },
+        { "id": "C", "text": "4" },
+        { "id": "D", "text": "5" }
+      ],
+      "correctAnswer": "C",
+      "explanation": [
+        "Step 1: Subtract 5 from both sides: 2x = 13 - 5 = 8",
+        "Step 2: Divide both sides by 2: x = 8 ÷ 2 = 4",
+        "Final answer: x = 4"
+      ],
+      "topic": "Algebra - Linear Equations",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_3",
+      "text": "What is 25% of 80?",
+      "options": [
+        { "id": "A", "text": "15" },
+        { "id": "B", "text": "20" },
+        { "id": "C", "text": "25" },
+        { "id": "D", "text": "30" }
+      ],
+      "correctAnswer": "B",
+      "explanation": [
+        "Step 1: Convert 25% to decimal: 25% = 0.25",
+        "Step 2: Multiply: 0.25 × 80 = 20",
+        "Final answer: 20"
+      ],
+      "topic": "Percentages",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_4",
+      "text": "Find the area of a rectangle with length 8cm and width 5cm.",
+      "options": [
+        { "id": "A", "text": "13 cm²" },
+        { "id": "B", "text": "26 cm²" },
+        { "id": "C", "text": "40 cm²" },
+        { "id": "D", "text": "80 cm²" }
+      ],
+      "correctAnswer": "C",
+      "explanation": [
+        "Step 1: Use the formula: Area = Length × Width",
+        "Step 2: Substitute values: Area = 8 × 5 = 40 cm²",
+        "Final answer: 40 cm²"
+      ],
+      "topic": "Geometry - Area",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_5",
+      "text": "Solve: 12 ÷ 3 + 4 × 2",
+      "options": [
+        { "id": "A", "text": "6" },
+        { "id": "B", "text": "10" },
+        { "id": "C", "text": "12" },
+        { "id": "D", "text": "16" }
+      ],
+      "correctAnswer": "C",
+      "explanation": [
+        "Step 1: Follow BODMAS rule - Division and Multiplication first",
+        "Step 2: 12 ÷ 3 = 4 and 4 × 2 = 8",
+        "Step 3: Add the results: 4 + 8 = 12",
+        "Final answer: 12"
+      ],
+      "topic": "BODMAS",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "waec_math_2024_6",
+      "text": "What is the next number in the sequence: 2, 4, 8, 16, __?",
+      "options": [
+        { "id": "A", "text": "20" },
+        { "id": "B", "text": "24" },
+        { "id": "C", "text": "28" },
+        { "id": "D", "text": "32" }
+      ],
+      "correctAnswer": "D",
+      "explanation": [
+        "Step 1: Identify the pattern - each number is doubled",
+        "Step 2: 2 × 2 = 4, 4 × 2 = 8, 8 × 2 = 16",
+        "Step 3: 16 × 2 = 32",
+        "Final answer: 32"
+      ],
+      "topic": "Sequences and Patterns",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "waec_math_2024_7",
+      "text": "Convert 3/5 to a percentage.",
+      "options": [
+        { "id": "A", "text": "30%" },
+        { "id": "B", "text": "50%" },
+        { "id": "C", "text": "60%" },
+        { "id": "D", "text": "75%" }
+      ],
+      "correctAnswer": "C",
+      "explanation": [
+        "Step 1: Divide numerator by denominator: 3 ÷ 5 = 0.6",
+        "Step 2: Multiply by 100 to get percentage: 0.6 × 100 = 60%",
+        "Final answer: 60%"
+      ],
+      "topic": "Fractions to Percentages",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_8",
+      "text": "If a = 5 and b = 3, what is 2a - b?",
+      "options": [
+        { "id": "A", "text": "4" },
+        { "id": "B", "text": "7" },
+        { "id": "C", "text": "10" },
+        { "id": "D", "text": "13" }
+      ],
+      "correctAnswer": "B",
+      "explanation": [
+        "Step 1: Substitute a = 5 into 2a: 2(5) = 10",
+        "Step 2: Subtract b = 3: 10 - 3 = 7",
+        "Final answer: 7"
+      ],
+      "topic": "Algebra - Substitution",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_9",
+      "text": "What is the square root of 144?",
+      "options": [
+        { "id": "A", "text": "10" },
+        { "id": "B", "text": "11" },
+        { "id": "C", "text": "12" },
+        { "id": "D", "text": "14" }
+      ],
+      "correctAnswer": "C",
+      "explanation": [
+        "Step 1: Find a number that when multiplied by itself equals 144",
+        "Step 2: 12 × 12 = 144",
+        "Final answer: 12"
+      ],
+      "topic": "Square Roots",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_10",
+      "text": "Simplify: (x + 3)(x + 2)",
+      "options": [
+        { "id": "A", "text": "x² + 5x + 6" },
+        { "id": "B", "text": "x² + 6x + 5" },
+        { "id": "C", "text": "x² + 5x + 5" },
+        { "id": "D", "text": "x² + 6x + 6" }
+      ],
+      "correctAnswer": "A",
+      "explanation": [
+        "Step 1: Use FOIL method - First, Outer, Inner, Last",
+        "Step 2: First: x × x = x²",
+        "Step 3: Outer: x × 2 = 2x, Inner: 3 × x = 3x",
+        "Step 4: Last: 3 × 2 = 6",
+        "Step 5: Combine: x² + 2x + 3x + 6 = x² + 5x + 6"
+      ],
+      "topic": "Algebra - Expansion",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "waec_math_2024_11",
+      "text": "What is the perimeter of a square with side 7cm?",
+      "options": [
+        { "id": "A", "text": "14 cm" },
+        { "id": "B", "text": "21 cm" },
+        { "id": "C", "text": "28 cm" },
+        { "id": "D", "text": "49 cm" }
+      ],
+      "correctAnswer": "C",
+      "explanation": [
+        "Step 1: Perimeter of square = 4 × side",
+        "Step 2: Perimeter = 4 × 7 = 28 cm",
+        "Final answer: 28 cm"
+      ],
+      "topic": "Geometry - Perimeter",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_12",
+      "text": "If 5x - 3 = 17, find x.",
+      "options": [
+        { "id": "A", "text": "2" },
+        { "id": "B", "text": "3" },
+        { "id": "C", "text": "4" },
+        { "id": "D", "text": "5" }
+      ],
+      "correctAnswer": "C",
+      "explanation": [
+        "Step 1: Add 3 to both sides: 5x = 17 + 3 = 20",
+        "Step 2: Divide both sides by 5: x = 20 ÷ 5 = 4",
+        "Final answer: x = 4"
+      ],
+      "topic": "Algebra - Linear Equations",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_13",
+      "text": "What is 0.75 as a fraction in simplest form?",
+      "options": [
+        { "id": "A", "text": "3/4" },
+        { "id": "B", "text": "2/3" },
+        { "id": "C", "text": "7/10" },
+        { "id": "D", "text": "75/100" }
+      ],
+      "correctAnswer": "A",
+      "explanation": [
+        "Step 1: Write as fraction: 75/100",
+        "Step 2: Simplify by dividing by 25: (75÷25)/(100÷25) = 3/4",
+        "Final answer: 3/4"
+      ],
+      "topic": "Decimals to Fractions",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_14",
+      "text": "Find the average of 10, 15, 20, and 25.",
+      "options": [
+        { "id": "A", "text": "15" },
+        { "id": "B", "text": "17.5" },
+        { "id": "C", "text": "20" },
+        { "id": "D", "text": "22.5" }
+      ],
+      "correctAnswer": "B",
+      "explanation": [
+        "Step 1: Add all numbers: 10 + 15 + 20 + 25 = 70",
+        "Step 2: Divide by count of numbers: 70 ÷ 4 = 17.5",
+        "Final answer: 17.5"
+      ],
+      "topic": "Statistics - Mean",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_15",
+      "text": "What is 3² + 4²?",
+      "options": [
+        { "id": "A", "text": "7" },
+        { "id": "B", "text": "12" },
+        { "id": "C", "text": "25" },
+        { "id": "D", "text": "49" }
+      ],
+      "correctAnswer": "C",
+      "explanation": [
+        "Step 1: Calculate 3²: 3 × 3 = 9",
+        "Step 2: Calculate 4²: 4 × 4 = 16",
+        "Step 3: Add: 9 + 16 = 25",
+        "Final answer: 25"
+      ],
+      "topic": "Powers and Squares",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_16",
+      "text": "Solve for y: 3y + 7 = 22",
+      "options": [
+        { "id": "A", "text": "3" },
+        { "id": "B", "text": "5" },
+        { "id": "C", "text": "7" },
+        { "id": "D", "text": "9" }
+      ],
+      "correctAnswer": "B",
+      "explanation": [
+        "Step 1: Subtract 7 from both sides: 3y = 22 - 7 = 15",
+        "Step 2: Divide by 3: y = 15 ÷ 3 = 5",
+        "Final answer: y = 5"
+      ],
+      "topic": "Algebra - Linear Equations",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "waec_math_2024_17",
+      "text": "What is the LCM of 6 and 8?",
+      "options": [
+        { "id": "A", "text": "12" },
+        { "id": "B", "text": "18" },
+        { "id": "C", "text": "24" },
+        { "id": "D", "text": "48" }
+      ],
+      "correctAnswer": "C",
+      "explanation": [
+        "Step 1: List multiples of 6: 6, 12, 18, 24, 30...",
+        "Step 2: List multiples of 8: 8, 16, 24, 32...",
+        "Step 3: Find smallest common multiple: 24",
+        "Final answer: 24"
+      ],
+      "topic": "Number Theory - LCM",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "waec_math_2024_18",
+      "text": "If the ratio of boys to girls is 3:2 and there are 15 boys, how many girls are there?",
+      "options": [
+        { "id": "A", "text": "8" },
+        { "id": "B", "text": "10" },
+        { "id": "C", "text": "12" },
+        { "id": "D", "text": "15" }
+      ],
+      "correctAnswer": "B",
+      "explanation": [
+        "Step 1: Set up proportion: 3/2 = 15/x",
+        "Step 2: Cross multiply: 3x = 30",
+        "Step 3: Divide by 3: x = 10",
+        "Final answer: 10 girls"
+      ],
+      "topic": "Ratios and Proportions",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "waec_math_2024_19",
+      "text": "What is the circumference of a circle with radius 7cm? (Use π = 22/7)",
+      "options": [
+        { "id": "A", "text": "22 cm" },
+        { "id": "B", "text": "44 cm" },
+        { "id": "C", "text": "154 cm" },
+        { "id": "D", "text": "308 cm" }
+      ],
+      "correctAnswer": "B",
+      "explanation": [
+        "Step 1: Use formula C = 2πr",
+        "Step 2: Substitute: C = 2 × (22/7) × 7",
+        "Step 3: Simplify: C = 2 × 22 = 44 cm",
+        "Final answer: 44 cm"
+      ],
+      "topic": "Geometry - Circles",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "waec_math_2024_20",
+      "text": "Factorize: x² + 7x + 12",
+      "options": [
+        { "id": "A", "text": "(x + 3)(x + 4)" },
+        { "id": "B", "text": "(x + 2)(x + 6)" },
+        { "id": "C", "text": "(x + 1)(x + 12)" },
+        { "id": "D", "text": "(x + 5)(x + 2)" }
+      ],
+      "correctAnswer": "A",
+      "explanation": [
+        "Step 1: Find two numbers that multiply to 12 and add to 7",
+        "Step 2: 3 × 4 = 12 and 3 + 4 = 7",
+        "Step 3: Write as factors: (x + 3)(x + 4)",
+        "Final answer: (x + 3)(x + 4)"
+      ],
+      "topic": "Algebra - Factorization",
+      "difficulty": "Medium"
+    }
+  ]
+}
